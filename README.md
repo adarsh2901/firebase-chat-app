@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Steps to use this project:
 
-Active link: [https://firebase-react-chat-app-project.netlify.app/](https://firebase-react-rtca.netlify.app/)
+Active link: https://firebase-react-rtca.netlify.app/
 
 Sign up with your Google account.
 
