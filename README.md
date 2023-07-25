@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Steps to use this project:
 
-Active link: https://firebase-react-rtca.netlify.app/
-
 Sign up with your Google account.
 
 Create a new chat room and add your friends if they have an account.
